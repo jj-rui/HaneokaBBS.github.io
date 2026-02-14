@@ -1,7 +1,7 @@
 @charset "utf-8";
 body {
 	font: 100%/1.4 Verdana, Arial, Helvetica, sans-serif;
-	background: #4E5869;
+	background: #e2eaf8;
 	margin: 0;
 	padding: 0;
 	color: #000;
@@ -12,7 +12,7 @@ img.logo {
 	height : 9%;
 	max-width: 252;
 	max-height: 57;
-	background: #8090AB;
+	background: #e2eaf8;
 	display:block;
 }
 
